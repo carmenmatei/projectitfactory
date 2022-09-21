@@ -13,7 +13,6 @@ Project requirements
 - The user should be able to costumize the cart(add, update, delete).
 - The user should be able to search.
 
-
 **Project Roles/Needs**
 
 1 leader developer
@@ -26,25 +25,39 @@ Project requirements
 
 The project must be complete in 10 months.
 
-Entry criteria
+**Entry criteria**
 
-Exit criteria
+**Exit criteria**
 
-Risks
+**Risks**
+The time needed in order to complete the project is not enough.
+Financial risks.
+The need of additional maintance needed.
 The amount of man power might not be enough.
-Financial risks
-The time needed in order to complete the project is not enough
-The need of additional maintance needed
 
-Test case design
+
+**Test case design**(based of Project stories)
 
 Project Epic
+- The user should be able to register.
+- The user should be able to log in using a registered account.
+- The user should be able to browse the store.
+- The user should be able to add a product to the cart.
+- The user should be able to costumize the cart(add, update, delete).
+- The user should be able to search.
 
 Project Stories
-to be added
+- New account registration
+- 1. Create a new account
+- 2. Email already used
+- User login
+- Store browsing
+- Add to cart
+- Costumize the cart
+- Search bar
+- Favorite section
+
 Project Test Cases
 to be added
 
-*Test Executions
 
-*Test Report
