@@ -15,19 +15,24 @@ Project requirements
 
 **Project Roles/Needs**
 
-1 leader developer
-1 senior developer
-3 mid/junior developers
-1 QA leader
-1 senior QA
-3 mid/junior QA
-1 project manager
+- 1 leader developer
+- 1 senior developer
+- 3 mid/junior developers
+- 1 QA leader
+- 1 senior QA
+- 3 mid/junior QA
+- 1 project manager
 
 The project must be complete in 10 months.
 
 **Entry criteria**
+In order for the feature to enter testing phase it needs to be at leasts 90% development done.
+Smoke tests from the dev team must be 100% passed.
 
 **Exit criteria**
+All test cases must be executed.
+All issues must be submitted.
+Follow up with the dev team/team leaders must be done.
 
 **Risks**
 The time needed in order to complete the project is not enough.
@@ -35,11 +40,10 @@ Financial risks.
 The need of additional maintance needed.
 The amount of man power might not be enough.
 
-
 **Test case design**(based of Project stories)
 
 Project Epic
-- The user should be able to register.
+- [**The user should be able to register.**]
 - The user should be able to log in using a registered account.
 - The user should be able to browse the store.
 - The user should be able to add a product to the cart.
