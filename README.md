@@ -41,6 +41,8 @@ The need of additional maintance needed.
 The amount of man power might not be enough.
 
 **Test case design**(based of Project stories)
+![test cases design](https://user-images.githubusercontent.com/109758059/193114372-0793f828-07cc-4f33-9a00-c19707fd9b52.png)
+
 
 Project Epic
 - [**The user should be able to register.**]
