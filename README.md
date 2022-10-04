@@ -26,19 +26,19 @@ Project requirements
 The project must be complete in 10 months.
 
 **Entry criteria**
-In order for the feature to enter testing phase it needs to be at leasts 90% development done.
-Smoke tests from the dev team must be 100% passed.
+-In order for the feature to enter testing phase it needs to be at leasts 90% development done.
+-Smoke tests from the dev team must be 100% passed.
 
 **Exit criteria**
-All test cases must be executed.
-All issues must be submitted.
-Follow up with the dev team/team leaders must be done.
+-All test cases must be executed.
+-All issues must be submitted.
+-Follow up with the dev team/team leaders must be done.
 
 **Risks**
-The time needed in order to complete the project is not enough.
-Financial risks.
-The need of additional maintance needed.
-The amount of man power might not be enough.
+-The time needed in order to complete the project is not enough.
+-Financial risks.
+-The need of additional maintance needed.
+-The amount of man power might not be enough.
 
 **Test case design**(based of Project stories)
 ![test cases design](https://user-images.githubusercontent.com/109758059/193114372-0793f828-07cc-4f33-9a00-c19707fd9b52.png)
@@ -68,5 +68,16 @@ Project Stories
 
 Project Test Cases
 
-
+[**The user can create a new account to registration**](https://github.com/carmenmatei/projectitfactory/blob/main/email-already-used-tc.png)
+[**Email already used**](https://github.com/carmenmatei/projectitfactory/blob/main/email-already-used-tc.png)
+[**User login**](https://github.com/carmenmatei/projectitfactory/blob/main/user-login-tc.png)
+[**Different format for user email**](https://github.com/carmenmatei/projectitfactory/blob/main/different-format-for-user-email-tc.png)
+[**The project should have a main page with different types of sections each describing all kind of categories**]
+[**The user should be able to buy product from the site**](https://github.com/carmenmatei/projectitfactory/blob/main/user-should-be-have-a-main-page-with-different-types-of-sections-each%20describing-all-kind-of-categories-tc.png https://github.com/carmenmatei/projectitfactory/blob/main/user-should-be-have-a-main-page-with-different-types-of-sections-each%20describing-all-kind-of-categories-tc2.png)
+[**The user can add a product from favorite to the cart**]
+[**The user should be search item on the site**]
+[**Search bar functionality**]
+[**Search suggestions**]
+[**The user should be able to empt their shopping cart**]
+[**The user should be able to add product to favorite**]
 
