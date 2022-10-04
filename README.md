@@ -1,4 +1,4 @@
-# projectitfactory
+# Projectitfactory
 This repository is made for my final exam.
 
 
@@ -25,16 +25,19 @@ This repository is made for my final exam.
 
 The project must be complete in 10 months.
 
+
 **Entry criteria**
 
 - In order for the feature to enter testing phase it needs to be at leasts 90% development done.
 - Smoke tests from the dev team must be 100% passed.
+
 
 **Exit criteria**
 
 - All test cases must be executed.
 - All issues must be submitted.
 - Follow up with the dev team/team leaders must be done.
+
 
 **Risks**
 
@@ -74,6 +77,7 @@ The project must be complete in 10 months.
 - [**Search bar**](https://github.com/carmenmatei/projectitfactory/blob/main/search-bar-story.png)
 - [**Favorite section**](https://github.com/carmenmatei/projectitfactory/blob/main/favorite-section-story.png)
 
+
 **Project Test Cases**
 
 
@@ -91,6 +95,7 @@ The project must be complete in 10 months.
 - [**The user should be able to empt their shopping cart**](https://github.com/carmenmatei/projectitfactory/blob/main/user-should-be-able-to-empty-their-shopping-cart.png)
 - [**The user should be able to add product to favorite**](https://github.com/carmenmatei/projectitfactory/blob/main/user-should-be-able-to-add-a-product-to-favorite.png)
 
+
 **Test Exectution**
 
 - [**User registration - TestCycle1**](https://github.com/carmenmatei/projectitfactory/blob/main/user-registration.png)
@@ -105,4 +110,10 @@ The project must be complete in 10 months.
 
 - [**The user should not be able to login using an email that contains bad words.**](https://github.com/carmenmatei/projectitfactory/blob/main/bug-email-with-bad-words.png)
 
-Test Report
+
+**Test Report**
+
+- [**Traceability Matrix(1)**](https://github.com/carmenmatei/projectitfactory/blob/main/matrix-1.png)
+- [**Traceability Matrix(2)**](https://github.com/carmenmatei/projectitfactory/blob/main/matrix-2.png)
+- [**Traceability Matrix(3)**](https://github.com/carmenmatei/projectitfactory/blob/main/matrix-3.png)
+- [**Traceability Matrix(4)**](https://github.com/carmenmatei/projectitfactory/blob/main/matrix-4.png)
