@@ -81,3 +81,12 @@ Project Test Cases
 - [**The user should be able to empt their shopping cart**](https://github.com/carmenmatei/projectitfactory/blob/main/user-should-be-able-to-empty-their-shopping-cart.png)
 - [**The user should be able to add product to favorite**](https://github.com/carmenmatei/projectitfactory/blob/main/user-should-be-able-to-add-a-product-to-favorite.png)
 
+Test Exectution
+
+-[**User registration - TestCycle1**](https://github.com/carmenmatei/projectitfactory/blob/main/user-registration.png)
+-[**User login - TestCycle2**](https://github.com/carmenmatei/projectitfactory/blob/main/user-login.png)
+-[**Store browsing - TestCycle3**](https://github.com/carmenmatei/projectitfactory/blob/main/store-browsing.png)
+-[**Adding product to the cart - TestCycle4**](https://github.com/carmenmatei/projectitfactory/blob/main/adding-products-to-the-cart.png)
+-[**Costumize the cart - TestCycle5**](https://github.com/carmenmatei/projectitfactory/blob/main/costumize-the-cart.png)
+-[**Searching bar - TestCycle6**](https://github.com/carmenmatei/projectitfactory/blob/main/searching-bar.png)
+-[**Favorite section - TestCycle7**](https://github.com/carmenmatei/projectitfactory/blob/main/favorite-section.png)
