@@ -4,7 +4,7 @@ This repository is made for my final exam.
 
 **Elefant.ro**
 
-Project requirements
+**Project requirements**
 
 - The user should be able to register.
 - The user should be able to log in using a registered account.
@@ -26,25 +26,31 @@ Project requirements
 The project must be complete in 10 months.
 
 **Entry criteria**
--In order for the feature to enter testing phase it needs to be at leasts 90% development done.
--Smoke tests from the dev team must be 100% passed.
+
+- In order for the feature to enter testing phase it needs to be at leasts 90% development done.
+- Smoke tests from the dev team must be 100% passed.
 
 **Exit criteria**
--All test cases must be executed.
--All issues must be submitted.
--Follow up with the dev team/team leaders must be done.
+
+- All test cases must be executed.
+- All issues must be submitted.
+- Follow up with the dev team/team leaders must be done.
 
 **Risks**
--The time needed in order to complete the project is not enough.
--Financial risks.
--The need of additional maintance needed.
--The amount of man power might not be enough.
 
-**Test case design**(based of Project stories)
+- The time needed in order to complete the project is not enough.
+- Financial risks.
+- The need of additional maintance needed.
+- The amount of man power might not be enough.
+
+**Test case design**
+
 ![test cases design](https://user-images.githubusercontent.com/109758059/193114372-0793f828-07cc-4f33-9a00-c19707fd9b52.png)
 
 
-Project Epic
+**Project Epic**
+
+
 - [**The user should be able to register.**](https://github.com/carmenmatei/projectitfactory/blob/main/user-should-be-able-to-register-epic.png)
 - [**The user should be able to log in using a registered account.**](https://github.com/carmenmatei/projectitfactory/blob/main/user-should-be-able-to-register-epic.png)
 - [**The user should be able to browse the store and add to favorite items.**](https://github.com/carmenmatei/projectitfactory/blob/main/user-should-be-able-to-browse-the-storee-and-add-to-favorite-items-epic.png)
@@ -57,7 +63,9 @@ Project Epic
 - [**The user should be able to search.**](https://github.com/carmenmatei/projectitfactory/blob/main/user-should-be-able-to-search-epic10.png)
 
 
-Project Stories
+**Project Stories**
+
+
 - [**New account registration**](https://github.com/carmenmatei/projectitfactory/blob/main/new-account-registration-story.png)
 - [**User login**](https://github.com/carmenmatei/projectitfactory/blob/main/user-login-story.png)
 - [**Store browsing**](https://github.com/carmenmatei/projectitfactory/blob/main/store-broswing-story.png)
@@ -66,7 +74,8 @@ Project Stories
 - [**Search bar**](https://github.com/carmenmatei/projectitfactory/blob/main/search-bar-story.png)
 - [**Favorite section**](https://github.com/carmenmatei/projectitfactory/blob/main/favorite-section-story.png)
 
-Project Test Cases
+**Project Test Cases**
+
 
 - [**The user can create a new account to registration**](https://github.com/carmenmatei/projectitfactory/blob/main/email-already-used-tc.png)
 - [**Email already used**](https://github.com/carmenmatei/projectitfactory/blob/main/email-already-used-tc.png)
@@ -81,7 +90,8 @@ Project Test Cases
 - [**The user should be able to empt their shopping cart**](https://github.com/carmenmatei/projectitfactory/blob/main/user-should-be-able-to-empty-their-shopping-cart.png)
 - [**The user should be able to add product to favorite**](https://github.com/carmenmatei/projectitfactory/blob/main/user-should-be-able-to-add-a-product-to-favorite.png)
 
-Test Exectution
+**Test Exectution**
+
 
 -[**User registration - TestCycle1**](https://github.com/carmenmatei/projectitfactory/blob/main/user-registration.png)
 -[**User login - TestCycle2**](https://github.com/carmenmatei/projectitfactory/blob/main/user-login.png)
