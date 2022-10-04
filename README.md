@@ -60,13 +60,13 @@ Project Epic
 Project Stories
 - [**New account registration**](https://github.com/carmenmatei/projectitfactory/blob/main/new-account-registration-story.png)
 - [**User login**](https://github.com/carmenmatei/projectitfactory/blob/main/user-login-story.png)
-- [**Store browsing**](https://github.com/carmenmatei/projectitfactory/blob/main/store-broswing-story.png
+- [**Store browsing**](https://github.com/carmenmatei/projectitfactory/blob/main/store-broswing-story.png)
 - [**Add to cart**](https://github.com/carmenmatei/projectitfactory/blob/main/add-to-cart-story.png)
 - [**Costumize the cart**](https://github.com/carmenmatei/projectitfactory/blob/main/costumize-the-cart-story.png)
 - [**Search bar**](https://github.com/carmenmatei/projectitfactory/blob/main/search-bar-story.png)
 - [**Favorite section**](https://github.com/carmenmatei/projectitfactory/blob/main/favorite-section-story.png)
 
 Project Test Cases
-to be added
+
 
 
