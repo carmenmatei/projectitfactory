@@ -66,7 +66,7 @@ The project must be complete in 10 months.
 **Project Stories**
 
 
-- [**New account registration**](https://github.com/carmenmatei/projectitfactory/blob/main/new-account-registration-story.png)
+- [**New account registration**](https://github.com/carmenmatei/projectitfactory/blob/main/new%20account%20registration-story.png)
 - [**User login**](https://github.com/carmenmatei/projectitfactory/blob/main/user-login-story.png)
 - [**Store browsing**](https://github.com/carmenmatei/projectitfactory/blob/main/store-broswing-story.png)
 - [**Add to cart**](https://github.com/carmenmatei/projectitfactory/blob/main/add-to-cart-story.png)
@@ -91,7 +91,6 @@ The project must be complete in 10 months.
 - [**The user should be able to add product to favorite**](https://github.com/carmenmatei/projectitfactory/blob/main/user-should-be-able-to-add-a-product-to-favorite.png)
 
 **Test Exectution**
-
 
 -[**User registration - TestCycle1**](https://github.com/carmenmatei/projectitfactory/blob/main/user-registration.png)
 -[**User login - TestCycle2**](https://github.com/carmenmatei/projectitfactory/blob/main/user-login.png)
