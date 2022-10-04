@@ -79,6 +79,7 @@ The project must be complete in 10 months.
 
 - [**The user can create a new account to registration**](https://github.com/carmenmatei/projectitfactory/blob/main/email-already-used-tc.png)
 - [**Email already used**](https://github.com/carmenmatei/projectitfactory/blob/main/email-already-used-tc.png)
+- [**Account created with an email with bad word in it**](https://github.com/carmenmatei/projectitfactory/blob/main/user-should-not-be-able-to-login-using-an-email-that-containt-bad-word.png)
 - [**User login**](https://github.com/carmenmatei/projectitfactory/blob/main/user-login-tc.png)
 - [**Different format for user email**](https://github.com/carmenmatei/projectitfactory/blob/main/different-format-for-user-email-tc.png)
 - [**The project should have a main page with different types of sections each describing all kind of categories**](https://github.com/carmenmatei/projectitfactory/blob/main/user-should-be-have-a-main-page-with-different-types-of-sections-each%20describing-all-kind-of-categories-tc.png)
@@ -92,10 +93,16 @@ The project must be complete in 10 months.
 
 **Test Exectution**
 
--[**User registration - TestCycle1**](https://github.com/carmenmatei/projectitfactory/blob/main/user-registration.png)
--[**User login - TestCycle2**](https://github.com/carmenmatei/projectitfactory/blob/main/user-login.png)
--[**Store browsing - TestCycle3**](https://github.com/carmenmatei/projectitfactory/blob/main/store-browsing.png)
--[**Adding product to the cart - TestCycle4**](https://github.com/carmenmatei/projectitfactory/blob/main/adding-products-to-the-cart.png)
--[**Costumize the cart - TestCycle5**](https://github.com/carmenmatei/projectitfactory/blob/main/costumize-the-cart.png)
--[**Searching bar - TestCycle6**](https://github.com/carmenmatei/projectitfactory/blob/main/searching-bar.png)
--[**Favorite section - TestCycle7**](https://github.com/carmenmatei/projectitfactory/blob/main/favorite-section.png)
+- [**User registration - TestCycle1**](https://github.com/carmenmatei/projectitfactory/blob/main/user-registration.png)
+- [**User login - TestCycle2**](https://github.com/carmenmatei/projectitfactory/blob/main/user-login.png)
+- [**Store browsing - TestCycle3**](https://github.com/carmenmatei/projectitfactory/blob/main/store-browsing.png)
+- [**Adding product to the cart - TestCycle4**](https://github.com/carmenmatei/projectitfactory/blob/main/adding-products-to-the-cart.png)
+- [**Costumize the cart - TestCycle5**](https://github.com/carmenmatei/projectitfactory/blob/main/costumize-the-cart.png)
+- [**Searching bar - TestCycle6**](https://github.com/carmenmatei/projectitfactory/blob/main/searching-bar.png)
+- [**Favorite section - TestCycle7**](https://github.com/carmenmatei/projectitfactory/blob/main/favorite-section.png)
+
+**Project Issues**
+
+- [**The user should not be able to login using an email that contains bad words.**](https://github.com/carmenmatei/projectitfactory/blob/main/bug-email-with-bad-words.png)
+
+Test Report
