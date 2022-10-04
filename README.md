@@ -45,12 +45,17 @@ The amount of man power might not be enough.
 
 
 Project Epic
-- [**The user should be able to register.**]
-- The user should be able to log in using a registered account.
-- The user should be able to browse the store.
-- The user should be able to add a product to the cart.
-- The user should be able to costumize the cart(add, update, delete).
-- The user should be able to search.
+- [**The user should be able to register.**](https://github.com/carmenmatei/projectitfactory/blob/main/user-should-be-able-to-register-epic.png)
+- [**The user should be able to log in using a registered account.**](https://github.com/carmenmatei/projectitfactory/blob/main/user-should-be-able-to-register-epic.png)
+- [**The user should be able to browse the store and add to favorite items.**](https://github.com/carmenmatei/projectitfactory/blob/main/user-should-be-able-to-browse-the-storee-and-add-to-favorite-items-epic.png)
+- [**The user should be able to add a product to the cart.**](https://github.com/carmenmatei/projectitfactory/blob/main/user-should-be-able-to-add-a-product-to-the-cart-epic.png)
+- [**The user should be able to add a product from favorite to cart.**](https://github.com/carmenmatei/projectitfactory/blob/main/user-should-be-able-to-add-a-product-from-favorite-to-the-cart-epic.png)
+- [**The user should be able to search.**](https://github.com/carmenmatei/projectitfactory/blob/main/user-should-be-able-to-search-epic.png)
+- [**The user should be able to add a product from favorite to the cart.**](https://github.com/carmenmatei/projectitfactory/blob/main/user-should-be-able-to-add-a-product-from-favorite-to-the-cart-epic7.png)
+- [**The user should be able to search.**](https://github.com/carmenmatei/projectitfactory/blob/main/user-should-be-able-to-search-epic8.png)
+- [**The user should be able to add product to favorite.**](https://github.com/carmenmatei/projectitfactory/blob/main/user-should-be-able-to-add-product-to-favorite-epic9.png)
+- [**The user should be able to search.**](https://github.com/carmenmatei/projectitfactory/blob/main/user-should-be-able-to-search-epic10.png)
+
 
 Project Stories
 - New account registration
