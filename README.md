@@ -23,7 +23,7 @@ This repository is made for my final exam.
 - 3 mid/junior QA
 - 1 project manager
 
-The project must be complete in 10 months.
+The project must be complete in 5 months.
 
 
 **Entry criteria**
